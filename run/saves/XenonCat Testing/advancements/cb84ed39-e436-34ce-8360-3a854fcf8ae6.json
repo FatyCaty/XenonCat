@@ -1,0 +1,11 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "extreme_hills_with_trees": "2022-06-17 13:30:19 +0200",
+      "plains": "2022-06-17 13:30:32 +0200",
+      "taiga": "2022-06-17 13:30:58 +0200",
+      "extreme_hills": "2022-06-17 13:30:25 +0200"
+    },
+    "done": false
+  }
+}
